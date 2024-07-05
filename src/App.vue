@@ -11,8 +11,8 @@
     
     <script setup>
 import { ref } from "vue";
-import Tableau from "./components/Tableau.vue";
-import Formulaire from "./components/Formulaire.vue";
+import Tableau from "./components/tableau.vue";
+import Formulaire from "./components/formulaire.vue";
 
 const elements = ref([]);
 
