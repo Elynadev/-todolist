@@ -51,7 +51,6 @@
   </script>
   
   <style scoped>
-  /* Styles spécifiques au composant */
   table {
     width: 100%;
     border-collapse: collapse;

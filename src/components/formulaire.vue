@@ -24,7 +24,6 @@
   </script>
   
   <style scoped>
-  /* Styles spécifiques au composant */
   form {
     display: flex;
     align-items: center;
@@ -51,6 +50,7 @@
     background-color: #218838;
   }
   </style>
-  
+
+
 
    

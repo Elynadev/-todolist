@@ -30,7 +30,7 @@ const supprimerElement = (index) => {
 </script>
     
     <style>
-/* Styles globaux */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
@@ -43,6 +43,8 @@ body {
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
+   
+
 }
 </style>
     
