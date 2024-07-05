@@ -76,34 +76,5 @@
     background-color: #0056b3;
   }
 
-
-
-  /* Dans Tableau.vue */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-th, td {
-  padding: 10px;
-  border: 1px solid #ccc;
-  text-align: left;
-}
-
-button {
-  padding: 5px 10px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-button:hover {
-  background-color: #0056b3;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-}
-
   </style>
   
